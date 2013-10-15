@@ -12,8 +12,8 @@ All the best,
 
 Chris.
 
-P.S. Breaking change in 0.8.6:
-uint64 and int64 are now read as Javascript Strings, rather than floating point numbers.  They can still be set from Javascript Numbers (as well as from string).
+~~P.S. Breaking change in 0.8.6:
+uint64 and int64 are now read as Javascript Strings, rather than floating point numbers.  They can still be set from Javascript Numbers (as well as from string).~~
 
 P.P.S. Here's an example I did for https://github.com/chrisdew/protobuf/issues/29 - most users won't need the complication of `bytes` fields.
 
